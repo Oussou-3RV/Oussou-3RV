@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oussou-3RV
+- 👋 Hi, I’m @Oussou
       - I'm a passionate developer who loves to learn and explore new technologies! 
 - 👀 I’m interested in
        - Software development.
